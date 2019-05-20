@@ -1,0 +1,14 @@
+{
+    "label": "MATLAB",
+    "product_help_location": "matlab",
+    "product_example_location": "matlab/examples.html",
+    "examples": [
+        "matlab:openExample('matlab_featured/intro')", 
+        "matlab:openExample('matlab_featured/fftdemo')", 
+        "matlab:openExample('matlab_featured/Creating2DPlots2Example')", 
+        "matlab:openExample('matlab/LiveEditorIntroduction')", 
+        "matlab:openExample('matlab_featured/ImportingDataFromExcelSpreadsheetsExample')", 
+        "matlab:openExample('matlab_featured/AnalyzeBigDataInMATLABUsingTallArraysExample')", 
+        "matlab:openExample('matlab_featured/MortgageCalculatorExample')"
+    ]
+}

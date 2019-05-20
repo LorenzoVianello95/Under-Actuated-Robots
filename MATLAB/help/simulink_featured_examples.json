@@ -1,0 +1,14 @@
+{
+    "label": "Simulink",
+    "product_help_location": "simulink",
+    "product_example_location": "simulink/examples.html",
+    "examples": [
+        "matlab:sldemo_bounce", 
+        "matlab:sldemo_antiwindup",
+        "matlab:sldemo_hydcyl",
+        "matlab:edit sldemo_tc_script",
+        "matlab:sldemo_fuelsys",
+        "matlab:sldemo_autotrans",
+        "matlab:aero_guidance"
+    ]
+}

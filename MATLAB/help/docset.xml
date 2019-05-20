@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentation-set>
+  <format>helpcenter</format>
+  <product-list>
+    <product>
+      <display-name>MATLAB</display-name>
+      <help-location>matlab</help-location>
+      <short-name>matlab</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink</display-name>
+      <help-location>simulink</help-location>
+      <short-name>simulink</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Control System Toolbox</display-name>
+      <help-location>control</help-location>
+      <short-name>control</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>control-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>DSP System Toolbox</display-name>
+      <help-location>dsp</help-location>
+      <short-name>dsp</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Image Processing Toolbox</display-name>
+      <help-location>images</help-location>
+      <short-name>images</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>image-video-processing</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Installation, Licensing, and Activation</display-name>
+      <help-location>install</help-location>
+      <short-name>install</short-name>
+    </product>
+    <product>
+      <display-name>Instrument Control Toolbox</display-name>
+      <help-location>instrument</help-location>
+      <short-name>instrument</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>test-measurement</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Optimization Toolbox</display-name>
+      <help-location>optim</help-location>
+      <short-name>optim</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>math-statistics-and-optimization</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Signal Processing Toolbox</display-name>
+      <help-location>signal</help-location>
+      <short-name>signal</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink Control Design</display-name>
+      <help-location>slcontrol</help-location>
+      <short-name>slcontrol</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>control-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Statistics and Machine Learning Toolbox</display-name>
+      <help-location>stats</help-location>
+      <short-name>stats</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>math-statistics-and-optimization</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Symbolic Math Toolbox</display-name>
+      <help-location>symbolic</help-location>
+      <short-name>symbolic</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>math-statistics-and-optimization</group>
+        </product-family>
+      </product-family-list>
+    </product>
+  </product-list>
+</documentation-set>
+
